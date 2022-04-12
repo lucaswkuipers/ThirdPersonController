@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8430CBD6-98A1-9491-FD5C-7C1F61005C5D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Floating.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="10" Column="7" />
+      <File FileName="Assets/Scripts/Floating.cs" Line="13" Column="37" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
