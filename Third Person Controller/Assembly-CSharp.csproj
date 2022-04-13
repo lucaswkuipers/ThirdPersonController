@@ -53,8 +53,10 @@
     <UnityVersion>2020.3.18f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/RotationUpright.cs" />
+    <Compile Include="Assets/Scripts/Floater.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
-    <Compile Include="Assets/Scripts/Floating.cs" />
+    <Compile Include="Assets/Scripts/Thrower.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

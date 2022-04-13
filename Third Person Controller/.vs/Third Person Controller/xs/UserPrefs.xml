@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{8430CBD6-98A1-9491-FD5C-7C1F61005C5D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Floating.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Thrower.cs">
     <Files>
-      <File FileName="Assets/Scripts/Floating.cs" Line="13" Column="37" NotebookId="1" />
+      <File FileName="Assets/Scripts/RotationUpright.cs" Line="3" Column="24" />
+      <File FileName="Assets/Scripts/Floating.cs" Line="8" Column="35" />
+      <File FileName="Assets/Scripts/Thrower.cs" Line="6" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1cf037b-2da2-4d40-b339-86feaf94ff33" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6ed87e27-0f00-4dac-a444-5d4a71dd37ef" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
